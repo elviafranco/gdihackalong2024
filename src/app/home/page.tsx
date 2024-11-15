@@ -1,3 +1,11 @@
+import { Header } from "../ui/components/header"
+import { CheckIn } from "../ui/components/checkinbtn"
+
 export default function Page() {
-    return <p>Home Page</p>
+    return (
+        <div>
+            <Header/>
+            <CheckIn/>
+        </div>
+    )
 }
