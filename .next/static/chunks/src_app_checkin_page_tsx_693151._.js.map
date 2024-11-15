@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/efranco/Work/Dev/gdihackalong2024/src/app/checkin/page.tsx"],"sourcesContent":["import { Header } from \"../ui/components/header\";\n\n\nexport default function Page() {\n  return (\n    <Header\n    title=\"Daily Check In\"\n    name=\"Elvia\"\n    subtext=\"how are you feeling today?\"/>\n  )\n}\n"],"names":[],"mappings":";;;;AAAA;;;AAGe,SAAS;IACtB,qBACE,sZAAC,4IAAA,CAAA,SAAM;QACP,OAAM;QACN,MAAK;QACL,SAAQ;;;;;;AAEZ;KAPwB"}},
+    {"offset": {"line": 31, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
