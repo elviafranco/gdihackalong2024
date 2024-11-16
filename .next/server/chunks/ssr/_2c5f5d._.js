@@ -66,7 +66,7 @@ function Page() {
         subtext: "take your self-care moment"
     }, void 0, false, {
         fileName: "[project]/src/app/checkin/page.tsx",
-        lineNumber: 6,
+        lineNumber: 7,
         columnNumber: 5
     }, this);
 }
