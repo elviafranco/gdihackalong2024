@@ -1,5 +1,6 @@
 import { Header } from "../ui/components/header";
 import { Journal } from "../ui/components/journal";
+import { Emotion } from "../ui/components/emotion";
 
 export default function Page() {
   return (
