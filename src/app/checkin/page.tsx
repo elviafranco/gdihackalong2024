@@ -7,7 +7,7 @@ export default function Page() {
     <main className="m-8">
       <Header
         title="Daily Check In"
-        name="Elvia"
+        name="Jenny"
         subtext="take your self-care moment"
       />
       <div className="flex flex-col justify-center items-center space-y-4">
