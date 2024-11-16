@@ -29,16 +29,6 @@ export function Emotion() {
         console.log(`Emotion saved: ${emotion}`);
     };
 
-    // Function to save the selected emotion
-    const saveEmotion = () => {
-        if (emotion) {
-          console.log(`Emotion saved: ${emotion}`);
-          alert(`Your emotion "${emotion}" has been saved!`);
-        } else {
-          alert("Please select an emotion first.");
-        }
-      };
-
     return (
         <div className="overflow-hidden rounded-lg bg-white shadow my-3">
             <div className="px-4 py-5 sm:p-6">
